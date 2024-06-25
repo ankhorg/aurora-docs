@@ -6,7 +6,7 @@ import projectConfig from './docs/config.json';
 const config: Config = {
     title: projectConfig.title,
     tagline: projectConfig.tagline,
-    favicon: 'img/favicon.ico',
+    favicon: 'img/favicon.png',
 
     url: projectConfig.url,
     baseUrl: '/',
